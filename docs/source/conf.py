@@ -20,6 +20,13 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
+# -- Options for locale output -------------------------------------------------
+
+# multi-language docs
+language = 'en'
+locale_dirs = ['../locales/']   # path is example but recommended.
+gettext_compact = False  # optional.
+gettext_uuid = True  # optional
 
 
 # -- Options for HTML output -------------------------------------------------

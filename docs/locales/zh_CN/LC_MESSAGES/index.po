@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, SJ
+# This file is distributed under the same license as the PK4ADI Calculator
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PK4ADI Calculator \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-25 22:39+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/index.rst:12
+msgid "Contents:"
+msgstr "目录"
+
+#: ../../source/index.rst:7 5894f4620ec640038d8a408208731199
+msgid "Welcome to PK4ADI Calculator's documentation!"
+msgstr "欢迎阅读PK4ADI计算器官方文档！"
+
+#: ../../source/index.rst:10 726d63ca07244828a3073e7e4b3332da
+msgid "123"
+msgstr "一二三"
+
+#: ../../source/index.rst:19 4c2712e51a7644fe81ded49b6767edf7
+msgid "Indices and tables"
+msgstr "参数与表格"
+
+#: ../../source/index.rst:21 c2ead2dd59ce4bdab79936e2b5e9f5a6
+msgid ":ref:`genindex`"
+msgstr "支持"
+
+#: ../../source/index.rst:22 e9383e8c8dd4461dbb17487540b4d632
+msgid ":ref:`modindex`"
+msgstr "参数"
+
+#: ../../source/index.rst:23 c885352163874099b91fad6192e6cc19
+msgid ":ref:`search`"
+msgstr "搜索"
+
