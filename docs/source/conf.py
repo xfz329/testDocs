@@ -14,7 +14,8 @@ release = '0.1.4.d'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    'recommonmark']
 
 templates_path = ['_templates']
 exclude_patterns = []
