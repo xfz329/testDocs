@@ -1,7 +1,6 @@
 sphinx-markdown-tables==0.0.17
-sphinx-intl
-furo
 sphinx-autoapi
 sphinx-copybutton
 sphinx_design
 recommonmark
+furo
